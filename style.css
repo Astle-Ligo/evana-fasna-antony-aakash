@@ -7,3 +7,6 @@ img{
 .imgtext{
     backdrop-filter: blur(.3rem);
 }
+.next{
+    color: black;
+}
